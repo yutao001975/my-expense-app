@@ -1,0 +1,5 @@
+{
+  "name": "记账本",
+  "description": "A web application to track personal and company expenses with categorization and monthly statistics.",
+  "requestFramePermissions": []
+}
